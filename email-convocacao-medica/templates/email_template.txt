@@ -1,0 +1,21 @@
+Assunto: Convocação Exame [Tipo do Exame] - [NOME COMPLETO]
+
+Prezada(o) [Primeiro Nome],
+
+Seguem as informações para a realização do seu exame ocupacional **[Tipo do Exame]**. O processo será realizado em **[Quantidade] etapas** no dia **[Data]**, conforme detalhado abaixo:
+
+**[N]ª Etapa: [Nome da Etapa]**
+* **Data:** [Data]
+* **Horário:** [Horário]
+* **Local:** [Nome do Local Original]
+* **Endereço:** [Endereço Mapeado no Dicionário]
+
+[REPETIR O BLOCO DE ETAPA ACIMA CONFORME A QUANTIDADE INFORMADA]
+
+**Orientações Gerais:**
+* Por favor, compareça com **15 minutos de antecedência** em todas as etapas.
+* É obrigatória a apresentação de **documento original com foto**.
+* Segue em anexo o documento ("Pedido de Exames") contendo a lista de todos os exames a serem realizados.
+[INCLUIR ESTE BULLET APENAS SE HOUVER TOXICOLÓGICO:] * Além disso, o **Termo de Exame Pré-Admissional**, em anexo, deve ser assinado e enviado como resposta deste e-mail.
+
+Por favor, **confirme o recebimento deste e-mail**.
